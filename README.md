@@ -1,2 +1,1 @@
-# Parcel_build
-My build for parcel
+# Instance of applying Requestanimationframe()
